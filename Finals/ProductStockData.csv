@@ -1,0 +1,11 @@
+pid,volume,product_name,stock
+IP3,0.2,StrawberryTinyCup,225000.0
+IP2,0.2,ChocolatePetiteBar,75000.0
+IP1,0.2,VanillaMiniCone,120000.0
+IP5,0.2,ButterPecanSmallStick,150000.0
+IP4,0.2,MintBite-sizePop,200000.0
+BP2,1.0,MooseTracksJumboCup,8000.0
+BP1,1.0,ChocolateFudgeBigScoop,10000.0
+BP5,1.0,CookiesandCreamMegaTub,4000.0
+BP3,1.0,MintChocolateChipFamilyPack,9000.0
+BP4,1.0,RockyRoadMegaTub,5000.0
